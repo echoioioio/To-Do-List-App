@@ -1,0 +1,2 @@
+rootProject.name = "DoltMar11"
+include ':app'
